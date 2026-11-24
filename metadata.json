@@ -1,0 +1,6 @@
+{
+  "name": "Antrian ULT FKIP",
+  "description": "Aplikasi antrean pelayanan administrasi real-time untuk Unit Layanan Terpadu (ULT) FKIP Universitas Lampung berbasis Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
